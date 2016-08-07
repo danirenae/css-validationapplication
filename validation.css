@@ -1,0 +1,13 @@
+body {
+  background-color: lightgray;
+  padding: 40px;
+}
+
+.valid:valid {
+  background-color: lightgreen;
+}
+
+.valid:invalid {
+  background-color: pink;
+}
+
